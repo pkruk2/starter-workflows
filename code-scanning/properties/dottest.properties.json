@@ -1,0 +1,7 @@
+{
+    "name": "Parasoft dotTEST Analysis",
+    "organization": "Parasoft",
+    "description": "Parasoft dotTEST is a testing tool for C# and VB.NET that provides code analysis techniques to improve code quality and ensure compliance with industry standards.",
+    "iconName": "parasoft",
+    "categories": ["Code Scanning", "Parasoft", "dotTEST", "Static Analysis", "C#", "VB.NET"]
+}
